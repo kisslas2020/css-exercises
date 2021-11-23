@@ -39,9 +39,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-.content {
-  
-}
+
 .headerrow {
   display: flex;
   justify-content: space-between;
